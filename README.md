@@ -15,7 +15,7 @@ A terminal-based Python application that simulates basic banking operations. You
 
 ## How to Run
 
-1. Save the code to a file named `bank_system.py`.
+1. Save the code to a file named `main.py`.
 2. Open a terminal.
 3. Execute the script:
 
